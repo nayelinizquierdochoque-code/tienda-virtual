@@ -1,0 +1,139 @@
+
+[
+    {
+      "id": 1,
+      "nombre": "Audífonos Bluetooth",
+      "descripcion": "Audífonos inalámbricos con sonido de alta calidad.",
+      "precio": 150,
+      "categoria": "Electrónica",
+      "stock": 15,
+      "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600"
+    },
+    {
+      "id": 2,
+      "nombre": "Smartwatch Deportivo",
+      "descripcion": "Reloj inteligente con monitor de actividad.",
+      "precio": 280,
+      "categoria": "Electrónica",
+      "stock": 8,
+      "imagen": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600"
+    },
+    {
+      "id": 3,
+      "nombre": "Mochila Urbana",
+      "descripcion": "Mochila moderna ideal para estudiar y viajar.",
+      "precio": 120,
+      "categoria": "Accesorios",
+      "stock": 20,
+      "imagen": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600"
+    },
+    {
+      "id": 4,
+      "nombre": "Zapatillas Deportivas",
+      "descripcion": "Calzado cómodo para actividades deportivas.",
+      "precio": 350,
+      "categoria": "Ropa",
+      "stock": 12,
+      "imagen": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600"
+    },
+    {
+      "id": 5,
+      "nombre": "Gafas de Sol",
+      "descripcion": "Gafas modernas con protección UV.",
+      "precio": 90,
+      "categoria": "Accesorios",
+      "stock": 0,
+      "imagen": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600"
+    },
+    {
+      "id": 6,
+      "nombre": "Teclado Mecánico",
+      "descripcion": "Teclado ideal para videojuegos y oficina.",
+      "precio": 220,
+      "categoria": "Electrónica",
+      "stock": 5,
+      "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600"
+    },
+    {
+      "id": 7,
+      "nombre": "Camiseta Casual",
+      "descripcion": "Camiseta de algodón con diseño moderno.",
+      "precio": 75,
+      "categoria": "Ropa",
+      "stock": 25,
+      "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600"
+    },
+    {
+      "id": 8,
+      "nombre": "Parlante Bluetooth",
+      "descripcion": "Parlante portátil con sonido envolvente.",
+      "precio": 190,
+      "categoria": "Electrónica",
+      "stock": 3,
+      "imagen": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600"
+    },
+    {
+      "id": 9,
+      "nombre": "Reloj Clásico",
+      "descripcion": "Reloj elegante para cualquier ocasión.",
+      "precio": 260,
+      "categoria": "Accesorios",
+      "stock": 10,
+      "imagen": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=600"
+    },
+    {
+      "id": 10,
+      "nombre": "Laptop Ultrabook",
+      "descripcion": "Laptop ligera para trabajo y estudio.",
+      "precio": 4500,
+      "categoria": "Electrónica",
+      "stock": 4,
+      "imagen": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600"
+    },
+    {
+      "id": 11,
+      "nombre": "Bolso de Mano",
+      "descripcion": "Bolso elegante y práctico para uso diario.",
+      "precio": 180,
+      "categoria": "Accesorios",
+      "stock": 7,
+      "imagen": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600"
+    },
+    {
+      "id": 12,
+      "nombre": "Chaqueta Moderna",
+      "descripcion": "Chaqueta cómoda para días fríos.",
+      "precio": 320,
+      "categoria": "Ropa",
+      "stock": 0,
+      "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600"
+    },
+    {
+      "id": 13,
+      "nombre": "Mouse Inalámbrico",
+      "descripcion": "Mouse ergonómico de conexión inalámbrica.",
+      "precio": 85,
+      "categoria": "Electrónica",
+      "stock": 18,
+      "imagen": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=600"
+    },
+    {
+      "id": 14,
+      "nombre": "Gorra Deportiva",
+      "descripcion": "Gorra ajustable con diseño deportivo.",
+      "precio": 65,
+      "categoria": "Accesorios",
+      "stock": 2,
+      "imagen": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=600"
+    },
+    {
+      "id": 15,
+      "nombre": "Pantalón Jeans",
+      "descripcion": "Pantalón de mezclilla de estilo casual.",
+      "precio": 210,
+      "categoria": "Ropa",
+      "stock": 14,
+      "imagen": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600"
+    }
+  ]
+  
